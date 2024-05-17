@@ -9,6 +9,10 @@
 
 ![Screenshot 2024-05-17 160015](https://github.com/emzhran/PDW8_20220140118/assets/122156466/476319ec-1db3-4142-9f12-46f3e183be23)
 
+<p>Tampilan Poster Pertandingan</p>
+
+![Screenshot 2024-05-17 210731](https://github.com/emzhran/PDW8_20220140118/assets/122156466/87af14aa-f705-4290-8fa2-d614d403189f)
+
 <p>Tampilan Pemesanan Tiket</p>
 
 ![Screenshot 2024-05-17 160054](https://github.com/emzhran/PDW8_20220140118/assets/122156466/42e4ab8d-d41e-4279-b77e-b7c85c01f8a3)
